@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="user_card_size">60dp</dimen>
+    <dimen name="block_corner_radius">8dp</dimen>
+</resources>

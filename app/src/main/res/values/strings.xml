@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InratingTest</string>
+    <string name="likes">Лайки</string>
+    <string name="commentators">Комментаторы</string>
+    <string name="reposters">Репосты</string>
+    <string name="mentions">Отметки</string>
+    <string name="bookmarks">Закладки</string>
+    <string name="error_text">Ошибка сети</string>
+    <string name="retry">Повторить</string>
+    <string name="refresh">Обновить</string>
+</resources>
